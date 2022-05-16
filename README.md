@@ -1,6 +1,6 @@
 ## Control-3-TEL-335
 
-###Probar Rutas en Backend.
+### Probar Rutas en Backend.
 
 1)Entrar en carpeta BACKEND
 2) npm install
@@ -13,7 +13,8 @@
 	4. GET:	 http://localhost:3001/productos/id/:id/       (Obtener producto por id)
 	5. GET:  http://localhost:3001/productos/               (Obtener todos los productos)
 	6. GET.  http://localhost:3001/carrito/productos2/:parametro/  (obtener producto por id o marca)
-###Probar Rutas en Frontend.
+	
+### Probar Rutas en Frontend.
 
 1) npm install
 2) npm axios
